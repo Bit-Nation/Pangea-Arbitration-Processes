@@ -1,3 +1,5 @@
-# Pangea-Evidence-Bundles--Tutorial
+# Pangea Arbitration Processes
 
-Inspired by Chris Ellis open source investigation idea: https://github.com/MrChrisJ/20141019-Moolah-Investigation
+* Standard Arbitration Session
+* Open Source Investigation
+* Contract Creation Best Practices
